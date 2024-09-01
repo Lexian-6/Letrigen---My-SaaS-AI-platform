@@ -46,7 +46,7 @@ export async function GET() {
               name: "Letrigen Pro",
               description: "Unlimited AI Generation",
             },
-            unit_amount: 100,
+            unit_amount: 4999,
             recurring: {
               interval: "month",
             },
